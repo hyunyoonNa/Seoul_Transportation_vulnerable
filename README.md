@@ -39,7 +39,7 @@ Kosta full-stack 과정 팀 토이 프로젝트입니다.<br>
 
 ## 💡구현기능 
 
-### 지하철 간편검색
+### 지하철역 편의정보 간편검색
 
 <img src="https://github.com/hyunyoonNa/Seoul_Transportation_vulnerable/assets/116360555/bfe68956-6950-4a38-a222-53d72c2b3f28"  width="80%">
 
